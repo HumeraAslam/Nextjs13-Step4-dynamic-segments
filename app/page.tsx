@@ -3,8 +3,7 @@ import Link from 'next/link';
 export default function Home() {
   return (
      <div> 
-    {/* text-color= */}
-      <center >
+        <center >
         <h1 >Hello World !<br /></h1>
         <h4>from <br /></h4>
         <h2> <b> Humera Aslam</b></h2>

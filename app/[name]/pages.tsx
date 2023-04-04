@@ -4,7 +4,7 @@ export default function GiveName({ params, searchParams }: {
 }) {
    return (
       <div>
-        My name is {params.name}.
+        My name is {params.name}
       </div>
     )
   }
