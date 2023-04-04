@@ -1,7 +1,7 @@
 //https://beta.nextjs.org/docs/data-fetching/generating-static-params
 
 export async function generateStaticParams() {
-  const name : string[] = ["Humera","Sonia", "Suzi"];
+  const name : string[] = ["Humera","Liza", "Suzi"];
   return name.map((name)=> ({
     name:name,
   }))
