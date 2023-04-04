@@ -39,3 +39,8 @@ Open the Browser:
 
     http://localhost:3000/name/address
 
+    also read it:
+    https://beta.nextjs.org/docs/data-fetching/generating-static-params
+
+    https://beta.nextjs.org/docs/routing/defining-routes#dynamic-segments
+

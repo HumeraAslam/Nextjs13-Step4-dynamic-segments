@@ -1,5 +1,3 @@
-import './globals.css'
-
 export default function RootLayout({
   children,
 }: {
@@ -12,7 +10,7 @@ export default function RootLayout({
         head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
       <head />
-      <body style ={{backgroundColor:"#d5a6bd"}}>{children}</body>
+      <body style ={{backgroundColor:"#9fc5e8"}}>{children}</body>
     </html>
   )
 }
