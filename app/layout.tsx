@@ -10,7 +10,7 @@ export default function RootLayout({
         head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
       <head />
-      <body style ={{backgroundColor:"#9fc5e8"}}>{children}</body>
+      <body style ={{backgroundColor:"#c27ba0"}}>{children}</body>
     </html>
   )
 }
